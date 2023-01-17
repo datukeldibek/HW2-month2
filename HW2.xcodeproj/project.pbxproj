@@ -8,6 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		0D4B2C632976AAEF0004B801 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4B2C622976AAEF0004B801 /* main.swift */; };
+		0D4B2C6B2976AEA80004B801 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4B2C6A2976AEA80004B801 /* User.swift */; };
+		0D4B2C6E2976AEB20004B801 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4B2C6D2976AEB20004B801 /* Student.swift */; };
+		0D4B2C712976B4820004B801 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4B2C702976B4820004B801 /* App.swift */; };
+		0D4B2C742976B48C0004B801 /* Paid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4B2C732976B48C0004B801 /* Paid.swift */; };
+		0D4B2C772976B4940004B801 /* Free.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4B2C762976B4940004B801 /* Free.swift */; };
+		0D4B2C7A2976B4CA0004B801 /* Smth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4B2C792976B4CA0004B801 /* Smth.swift */; };
+		0D4B2C7D2976B4DA0004B801 /* Premium.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D4B2C7C2976B4DA0004B801 /* Premium.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +32,13 @@
 /* Begin PBXFileReference section */
 		0D4B2C5F2976AAEF0004B801 /* HW2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HW2; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D4B2C622976AAEF0004B801 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0D4B2C6A2976AEA80004B801 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		0D4B2C6D2976AEB20004B801 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		0D4B2C702976B4820004B801 /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
+		0D4B2C732976B48C0004B801 /* Paid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paid.swift; sourceTree = "<group>"; };
+		0D4B2C762976B4940004B801 /* Free.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Free.swift; sourceTree = "<group>"; };
+		0D4B2C792976B4CA0004B801 /* Smth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Smth.swift; sourceTree = "<group>"; };
+		0D4B2C7C2976B4DA0004B801 /* Premium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Premium.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +72,13 @@
 			isa = PBXGroup;
 			children = (
 				0D4B2C622976AAEF0004B801 /* main.swift */,
+				0D4B2C6A2976AEA80004B801 /* User.swift */,
+				0D4B2C6D2976AEB20004B801 /* Student.swift */,
+				0D4B2C702976B4820004B801 /* App.swift */,
+				0D4B2C732976B48C0004B801 /* Paid.swift */,
+				0D4B2C762976B4940004B801 /* Free.swift */,
+				0D4B2C792976B4CA0004B801 /* Smth.swift */,
+				0D4B2C7C2976B4DA0004B801 /* Premium.swift */,
 			);
 			path = HW2;
 			sourceTree = "<group>";
@@ -119,7 +140,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D4B2C6B2976AEA80004B801 /* User.swift in Sources */,
+				0D4B2C712976B4820004B801 /* App.swift in Sources */,
+				0D4B2C7A2976B4CA0004B801 /* Smth.swift in Sources */,
+				0D4B2C6E2976AEB20004B801 /* Student.swift in Sources */,
 				0D4B2C632976AAEF0004B801 /* main.swift in Sources */,
+				0D4B2C742976B48C0004B801 /* Paid.swift in Sources */,
+				0D4B2C772976B4940004B801 /* Free.swift in Sources */,
+				0D4B2C7D2976B4DA0004B801 /* Premium.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
